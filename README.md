@@ -25,3 +25,8 @@ assets.zip will be avaliable for download from Releases soon. Original Phira ass
 Currently, Only English and Traditional Chinese are avaliable.
 
 Other language files inside this repository is considered as **INCOMPLETE** translation, and is not avaliable in the current release.
+
+## Links
+
+- [Original Phira](https://github.com/TeamFlos/phira)
+- [Original Project Commit History](https://github.com/TeamFlos/phira/commits)
