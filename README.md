@@ -30,3 +30,5 @@ Other language files inside this repository is considered as **INCOMPLETE** tran
 
 - [Original Phira](https://github.com/TeamFlos/phira)
 - [Original Project Commit History](https://github.com/TeamFlos/phira/commits)
+- [Contributors (Phira)](https://github.com/TeamFlos/phira/graphs/contributors)
+- [GPL License](https://github.com/castorifet/XC-Sim-Opensource/LICENSE)
