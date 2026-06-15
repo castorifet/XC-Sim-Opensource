@@ -7,6 +7,9 @@ This repo contains files completely from Phira. But they are not used inside the
 
 assets.zip will be avaliable for download from Releases soon. Original Phira assets are not compatible with XC-SIM and will fail to launch if you use it.
 
+## Resource Packs
+
+If you are using a resource pack with custom judgement line color/hitFx color, make sure the hex color code is in a format of 0xe1xxxxxx, otherwise it may not display properly (e.g. lack of hitFx anim)
 
 ## Download
 
