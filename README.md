@@ -25,7 +25,32 @@ If you are using a resource pack with custom judgement line color/hitFx color, m
 
 ## Build Guide 構建方法
 
-(coming soon)
+### Perquisites:
+
+
+* Windows / Linux / MacOS PC
+
+
+* Cargo and Rust Installed
+
+
+* Shell Available 
+
+
+### How to build:
+
+
+* Clone this repository
+
+
+* Run the command via Terminal/cmd/bash: cargo build --release -p xc-sim-main
+
+
+* Wait for the build to finish.
+
+
+### If you have any problems encountered during the compilation, feel free to open an issue under this repo.
+
 
 ## Contribution 貢獻
 
