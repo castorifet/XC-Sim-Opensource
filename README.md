@@ -43,7 +43,7 @@ If you are using a resource pack with custom judgement line color/hitFx color, m
 * Clone this repository
 
 
-* Run the command via Terminal/cmd/bash: cargo build --release -p xc-sim-main
+* Run this command via Terminal/cmd/bash: cargo build --release -p xc-sim-main
 
 
 * Wait for the build to finish.
